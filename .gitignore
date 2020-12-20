@@ -1,0 +1,5 @@
+# Default ignored files
+tmp/
+.DS_Store
+*_old
+/js/
